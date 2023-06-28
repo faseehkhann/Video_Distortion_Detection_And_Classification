@@ -1,3 +1,4 @@
+//// Could not upload the zip folder and video demo in repositry becuase of the big size. ////
 Video_Distortion_Detection_Classification Zip Folder Link: https://drive.google.com/file/d/1ZxfAzlKj106q9We7DkPBbp56us-_CPq9/view?usp=sharing
 Video Demo Link: https://drive.google.com/file/d/1xck2Mc9ay2uDKbM66Vh02YUmeOvPOUDL/view?usp=sharing
 
